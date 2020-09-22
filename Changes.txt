@@ -1,0 +1,25 @@
+Changes in v.1.0.22 (10:42 PM 3/9/2003)
+________________________________________
+
+	>> (ADDED) - OnList Event
+	
+Changes in v.1.0.21 (5:37 PM 3/3/2003)
+________________________________________
+
+	>> (ADDED) - OnNickExist Event
+	>> (ADDED) - Nickname, Username and RealName Text Fields on the Sample Application
+	>> (FIXED) - Connect Registration Bug, doesn't seem to connect
+
+Changes in v.1.0.20 (12:39 PM 2/26/2003)
+_________________________________________
+
+	>> (FIXED) - IP2Long and Long2IP Function
+
+Changes in v.1.0.19 (5:17 PM 2/25/2003)
+_________________________________________
+
+	>> (REPLACED) -  GetToken Function
+	>> (FIXED)    -  OnMode Bug
+	>> (ADDED)    -  NumericType on the OnServerNumeric event
+	>> (FIXED)    -  CTCP bug, doesn't seem to respond on other events like Version etc.
+	>> (ADDED)    -  DCC Chat Sample (Still testing...)
